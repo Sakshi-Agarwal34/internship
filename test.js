@@ -14,5 +14,5 @@ function checkFile(fileName) {
 
 // Test Cases
 checkFile("index.html");
-checkFile(style.css);
-checkFile(script.js);
+checkFile("style.css");
+checkFile("script.js");
