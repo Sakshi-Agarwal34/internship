@@ -13,6 +13,6 @@ function checkFile(fileName) {
 }
 
 // Test Cases
-checkFile("index.html");
+checkFile("in.html");
 checkFile(style.css);
-checkFile(script.js)
+checkFile(script.js);
